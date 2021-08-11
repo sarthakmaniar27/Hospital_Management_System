@@ -25,4 +25,9 @@ operations(methods): Give appointments to the students, Generate bills, etc.
 attributes: Bill no (int), Bill amount (Float), Patient Id (int), Patient Name (String) 
 operations(methods): Give appointments to the students, Generate bills, etc. 
 
+# Final Class Diagram: 
+
+![HMS1](https://user-images.githubusercontent.com/47854537/129088713-02fad436-631f-4478-851d-1a59780c510d.jpg)
+
+
 
